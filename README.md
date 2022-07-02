@@ -1,4 +1,4 @@
-# Sigma: Faster Machine Learning Project
+# Sigma: Machine Learning Project
  Super early devolopment stage
 
  
