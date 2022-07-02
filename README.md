@@ -1,5 +1,5 @@
-# Sigma: Machine Learning Project
- Super early devolopment stage
+# Sigma: My Machine Learning Package
+ 
 
  
 ## Basic ideas:
